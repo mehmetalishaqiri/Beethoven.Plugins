@@ -4,7 +4,7 @@ A package that is used to develop/extend plugins for the host composed by [Beeth
 [<img src="https://img.shields.io/nuget/v/Beethoven.Plugins.svg">](https://www.nuget.org/packages/Beethoven.Plugins)
 
 # Examples
-[Beethoven.Sample](https://github.com/spartanbeg/Beethoven) - A sample plugin based web application build using Beethoven
+[Beethoven.Sample](https://github.com/spartanbeg/Beethoven.Sample) - A sample plugin based web application built using Beethoven
 
 # Attribution
 Beethoven  clip art (Beethoven.gif) licensed from the Clip Art Gallery on [DiscoverySchool.com](DiscoverySchool.com)
