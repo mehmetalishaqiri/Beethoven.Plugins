@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Beethoven.Plugins</id>
+    <title>Beethoven.Plugins</title>
+    <version>1.0.4-alpha</version>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A package that is used to develop/extend plugins for the host composed by Beethoven</description>
+    <summary>A package that is used to develop/extend plugins for the host composed by Beethoven</summary>
+    <language>en-US</language>
+    <tags>beethoven, spartansoft, composition, mef, asp.net mvc, plugins</tags>    
+    <authors>Mehmetali Shaqiri</authors>
+    <owners>Mehmetali Shaqiri</owners>
+    <projectUrl>https://github.com/spartanbeg/Beethoven.Plugins</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/spartanbeg/Beethoven.Plugins/master/Beethoven.Plugins/beethoven.gif</iconUrl>
+    <licenseUrl>https://github.com/spartanbeg/Beethoven.Plugins/blob/master/LICENSE</licenseUrl>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.ComponentModel.Composition" targetFramework=".NETFramework4.0" />      
+    </frameworkAssemblies>
+  </metadata>  
+</package>
